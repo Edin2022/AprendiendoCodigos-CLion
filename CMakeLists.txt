@@ -1,0 +1,18 @@
+cmake_minimum_required(VERSION 3.24)
+project(AprendiendoCodigos_CLion)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(main main.cpp)
+add_executable(Ej1TablasdeMultiplicar4y6 Ej1TablasdeMultiplicar4y6.cpp)
+add_executable(Ej2factorial Ej2factorial.cpp)
+add_executable(Ej3SeriedeFibonnacci Ej3SeriedeFibonnacci.cpp)
+add_executable(Ej4SielNumeroesPrimooNo Ej4SielNumeroesPrimooNo.cpp)
+add_executable(Ej5UnNumeroesImparoPar Ej5UnNumeroesImparoPar.cpp)
+add_executable(Ej6MostrarlaTabladeMultiplicarConUnNumero Ej6MostrarlaTabladeMultiplicarConUnNumero.cpp)
+
+
+
+
+
+

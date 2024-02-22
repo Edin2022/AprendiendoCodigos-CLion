@@ -1,0 +1,9 @@
+C:/Users/rexyr/OneDrive/Escritorio/AprendiendoCodigos CLion/cmake-build-debug/CMakeFiles/main.dir
+C:/Users/rexyr/OneDrive/Escritorio/AprendiendoCodigos CLion/cmake-build-debug/CMakeFiles/Ej1TablasdeMultiplicar4y6.dir
+C:/Users/rexyr/OneDrive/Escritorio/AprendiendoCodigos CLion/cmake-build-debug/CMakeFiles/Ej2factorial.dir
+C:/Users/rexyr/OneDrive/Escritorio/AprendiendoCodigos CLion/cmake-build-debug/CMakeFiles/Ej3SeriedeFibonnacci.dir
+C:/Users/rexyr/OneDrive/Escritorio/AprendiendoCodigos CLion/cmake-build-debug/CMakeFiles/Ej4SielNumeroesPrimooNo.dir
+C:/Users/rexyr/OneDrive/Escritorio/AprendiendoCodigos CLion/cmake-build-debug/CMakeFiles/Ej5UnNumeroesImparoPar.dir
+C:/Users/rexyr/OneDrive/Escritorio/AprendiendoCodigos CLion/cmake-build-debug/CMakeFiles/Ej6MostrarlaTabladeMultiplicarConUnNumero.dir
+C:/Users/rexyr/OneDrive/Escritorio/AprendiendoCodigos CLion/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/rexyr/OneDrive/Escritorio/AprendiendoCodigos CLion/cmake-build-debug/CMakeFiles/rebuild_cache.dir

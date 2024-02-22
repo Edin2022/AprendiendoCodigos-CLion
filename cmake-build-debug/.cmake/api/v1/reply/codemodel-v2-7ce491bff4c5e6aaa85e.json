@@ -1,0 +1,114 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "AprendiendoCodigos_CLion",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Ej1TablasdeMultiplicar4y6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ej1TablasdeMultiplicar4y6-Debug-583a14d0bed244b5e69e.json",
+					"name" : "Ej1TablasdeMultiplicar4y6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ej2factorial::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ej2factorial-Debug-72375fefa81754b1030e.json",
+					"name" : "Ej2factorial",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ej3SeriedeFibonnacci::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ej3SeriedeFibonnacci-Debug-cfdfe907d9cfcd8413f1.json",
+					"name" : "Ej3SeriedeFibonnacci",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ej4SielNumeroesPrimooNo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ej4SielNumeroesPrimooNo-Debug-463e25e9f78c8d0703e7.json",
+					"name" : "Ej4SielNumeroesPrimooNo",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ej5UnNumeroesImparoPar::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ej5UnNumeroesImparoPar-Debug-b3e5ae1dec3426298f50.json",
+					"name" : "Ej5UnNumeroesImparoPar",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Ej6MostrarlaTabladeMultiplicarConUnNumero::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ej6MostrarlaTabladeMultiplicarConUnNumero-Debug-0e5f0d9754bb63d147c4.json",
+					"name" : "Ej6MostrarlaTabladeMultiplicarConUnNumero",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main-Debug-bd7f046171c3edc518e9.json",
+					"name" : "main",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/rexyr/OneDrive/Escritorio/AprendiendoCodigos CLion/cmake-build-debug",
+		"source" : "C:/Users/rexyr/OneDrive/Escritorio/AprendiendoCodigos CLion"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

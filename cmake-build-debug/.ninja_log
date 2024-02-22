@@ -1,0 +1,24 @@
+# ninja log v5
+1	496	7303149007822601	CMakeFiles/AprendiendoCodigos_CLion.dir/main.cpp.obj	2d77fdfbdfae9e86
+499	753	7303149010350339	AprendiendoCodigos_CLion.exe	66ba1363c30a2da8
+1	371	7303243114463502	CMakeFiles/main.dir/main.cpp.obj	677ea3f909469b5d
+406	544	7303240446496255	CalcularelFactorial.exe	aa84db2ccba453e0
+325	407	7303191814853427	TablasdeMultiplicar4y6.exe	6214be617dc90c
+0	280	7303359271068394	build.ninja	c57e855f2f9fbea1
+3	325	7303191814061410	CMakeFiles/TablasdeMultiplicar4y6.dir/TablasdeMultiplicar4y6.cpp.obj	a8b2b570313f944c
+1	405	7303240445140939	CMakeFiles/CalcularelFactorial.dir/CalcularelFactorial.cpp.obj	da6492bc2f8297b3
+371	503	7303243115708933	main.exe	27f0d23924c76470
+0	363	7303243431187775	CMakeFiles/SeriedeFibonnacci.dir/SeriedeFibonnacci.cpp.obj	8db0c476a4e46476
+364	441	7303243431916368	SeriedeFibonnacci.exe	48c4ccd845920445
+1	388	7303362163217792	CMakeFiles/Ej2factorial.dir/Ej2factorial.cpp.obj	a191ba430df94e10
+389	632	7303362165606373	Ej2factorial.exe	88dc42302b0a3946
+1	326	7303362523417098	CMakeFiles/Ej4SielNumeroesPrimooNo.dir/Ej4SielNumeroesPrimooNo.cpp.obj	2d3e79b47eebef83
+326	414	7303362524230146	Ej4SielNumeroesPrimooNo.exe	ddf37003a4463b6e
+3	325	7303363458758479	CMakeFiles/Ej4SielNumeroesPrimooNo.dir/Ej4SielNumeroesPrimooNo.cpp.obj	2d3e79b47eebef83
+326	487	7303363460246064	Ej4SielNumeroesPrimooNo.exe	ddf37003a4463b6e
+6	362	7303364540664409	CMakeFiles/Ej4SielNumeroesPrimooNo.dir/Ej4SielNumeroesPrimooNo.cpp.obj	2d3e79b47eebef83
+363	445	7303364541449214	Ej4SielNumeroesPrimooNo.exe	ddf37003a4463b6e
+0	339	7303364983011578	CMakeFiles/Ej5UnNumeroesImparoPar.dir/Ej5UnNumeroesImparoPar.cpp.obj	c249224852200263
+340	435	7303364983950287	Ej5UnNumeroesImparoPar.exe	43b9c9aca1bbd9e9
+0	321	7303365519268665	CMakeFiles/Ej6MostrarlaTabladeMultiplicarConUnNumero.dir/Ej6MostrarlaTabladeMultiplicarConUnNumero.cpp.obj	a2fec92fc02bc9b3
+321	403	7303365520040959	Ej6MostrarlaTabladeMultiplicarConUnNumero.exe	5a1b7c9e6500338e
